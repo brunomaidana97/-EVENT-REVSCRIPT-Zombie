@@ -1,4 +1,4 @@
-# -EVENT-REVSCRIPT-Zombie
+# EVENT REVSCRIPT / Zombie
 
 **Observações:**
 
